@@ -18,3 +18,7 @@
 After a lecture...
 * Don't expect everything to be 100% clear instantly
 * Patterns are key!! Follow and repeat!
+
+# AI
+
+* Careful, it can hallucinate!
